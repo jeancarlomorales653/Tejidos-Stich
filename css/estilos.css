@@ -330,8 +330,8 @@ p {
 		font-size: 8px;
 	}
 }
-/*MEDIA QUERY 250px*/
-@media screen and (max-width: 250px) {
+/*MEDIA QUERY 350px*/
+@media screen and (max-width: 350px) {
 	/*PARRAFOS*/
 	p {
 		font-size: 16px;
